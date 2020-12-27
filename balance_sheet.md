@@ -1,8 +1,8 @@
 * date
 2020-12-27
 * transaction: load add 15w (For Xuepu)
-*
 * final state
+
 |出资人       | 金额     | 备注                    |
 |:------------|:---------|:----------------------- |
 |Lester       | 12.5w    |                         |
