@@ -1,5 +1,5 @@
 # TID_1 
-* date        
+* date
 2017-01-16
 * transaction: invest, 30W
 * final state
@@ -13,7 +13,7 @@
 |Total        | 170W     |   N/A                   |                   |
 
 #TID_2
-* date        
+* date
 2017-01-17
 * transaction: invest, 5W
 * final state
@@ -29,7 +29,7 @@
 
 
 #TID_3
-* date        
+* date
 2017-03-23
 * transaction: 结息，民生银行信用贷循环使用
 * final state
