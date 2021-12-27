@@ -1,6 +1,6 @@
 * date
 2021-12-27
-* transaction: Change load
+* transaction: Change load & Hongpo extract 20w
 * final state
 
 |出资人       | 金额     | 备注                    |
