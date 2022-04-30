@@ -1,5 +1,19 @@
 * date
 2022-04-30
+* transaction: Update loan
+* final state
+
+|出资人       | 金额     | 备注                    |
+|:------------|:---------|:-----------------------|
+|Loan         | 69.53w    |                       |
+|Yuan         | 50w      |2021-03-01日投资50w(7%)  |
+|Yuan         | 50w      |2021-03-01日投资50w(6%)  |
+|Hanwa        | 50w      |                        |
+|Team         | 12.47w  |2021-12-01日投资 74861  |
+|             |          |2022-04-01日投资 49839  |
+|合计         | 232w |                        |
+* date
+2022-04-30
 * transaction: Return Hanwa 15w, Team add 49839
 * final state
 
