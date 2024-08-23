@@ -1860,7 +1860,7 @@
 |Total        | 279.6105w|                         |                   |
 
 #TID_141
-* date 2024-08-23
+* date 2024-08-22
 * transaction: 归还利息4000
 * final state
   
