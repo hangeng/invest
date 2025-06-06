@@ -2172,7 +2172,7 @@
 |Total        | 269.2105w|                         |                   |
 
 #TID_169
-* date 2025-06-5
+* date 2025-06-05
 * transaction: 归还利息2000
 * final state
   
