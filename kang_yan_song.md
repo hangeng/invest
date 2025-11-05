@@ -2397,7 +2397,7 @@
 |Total        | 276.2285w|                         |                   |
 
 #TID_187
-* date 2025-11-25
+* date 2025-11-05
 * transaction: 归还利息4000
 * final state
   
